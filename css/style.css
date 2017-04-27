@@ -1,0 +1,71 @@
+body
+{
+	background: url("D:/sublime/img/1.png") center fixed;
+	background-size: cover;
+}
+.whole
+{
+	background-color: cornsilk;
+}
+.ex
+{
+	font-family: Diplomata;
+}
+.head
+{	
+	
+	position: fixed;
+	background-color:khaki;
+	height:70px;
+	width: 940px;
+	margin-left: 10px;
+
+}
+.h1
+{
+	padding-top: 20px;
+	color:mediumseagreen;
+}
+.par
+{
+	font-family: alegreya;
+	font-size: 15px;
+}
+.h
+{
+	font-family: Cinzel;
+}
+.grid_12
+{
+	padding-top: 80px;
+}
+
+.item
+{   
+	padding-top: 50px;
+	display:inline;
+	list-style: none;
+	
+
+}
+
+.img
+{
+	padding-top: 20px;
+	width:300px;
+	height:200px;
+	margin:auto;
+	clear:both;
+}
+.foot
+{
+background-color: gray;
+height: 50px;
+width:960px;
+margin: auto;
+}
+.fa
+{
+	float:center;
+
+}
